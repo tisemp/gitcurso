@@ -1,4 +1,4 @@
-# Uso do git e github como ferramenta de apoio às atividades docente
+# Uso do git e github como ferramenta de apoio às atividades docente (mudei para testar)
 
 
 **Objetivos:** Apresentar a ferramenta de controle de versão git, bem como seus benefícios para a atividade docente. No curso também serão apresentadas as facilidades do Github para projetos colaborativos e da ferramenta Github Classroom, criada especificamente para permitir a publicação e coleta de listas de exercícios dos alunos.
